@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/Components/styles.css"],"names":[],"mappings":"AACA,oBACE,UAAW,CACX,eAAgB,CAChB,YACF","file":"main.45f13785.chunk.css","sourcesContent":["/* styles.css */\r\n.portfolio-item img {\r\n  width: 100%;\r\n  max-width: 300px; /* 设置你希望的最大宽度 */\r\n  height: 150px;    /* 确保图片按比例缩放 */\r\n}\r\n"]}

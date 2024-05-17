@@ -1,0 +1,142 @@
+{
+  "main": {
+    "name":"进入新时代以来淳安变迁的调研报告",
+    "description":"中国特色社会主义进入新时代以来淳安变迁的调研报告",
+    "image":"profilepic.jpg",
+    "backgroundImage":"island.png",
+    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
+    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "youremailhere@gmail.com",
+    "phone": "555-555-5555",
+    "github":"https://github.com/nordicgiant2/react-nice-resume",
+    "project":"https://github.com/nordicgiant2/react-nice-resume",
+    "address":{
+      "street":"(Your Street)",
+      "city":"(Your City)",
+      "state":"(Your State)",
+      "zip": "(Your Zip/Postal Code)"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload":"http://timbakerdev.com",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://github.com/nordicgiant2/react-nice-resume",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"http://twitter.com",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/tim-baker-8420009a/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"http://instagram.com/tbaker_x",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/nordicgiant2/react-nice-resume",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "education":[
+      {
+        "school":"打造统筹淳安 争当山上浙江城乡统筹示范",
+        "degree":"千岛湖新闻网",
+        "graduated":"2012-09-25",
+        "description":"作为杭州地区基础最薄弱、经济欠发达但坐拥绝版千岛湖的特殊之县，我县对推进城乡统筹发展具有极强的机遇意识，全县上下对推进城乡统筹发展既满怀期盼更全力以赴，在省、市政府及有关部门的关心、支持下，全县上下正以“推进城乡统筹，打造统筹淳安，争当山上浙江城乡统筹示范”为目标，深入推进全县景区化建设，以“一环三线”整治为重点，以推进中心镇、旅游风情小镇、中心村、美丽乡村精品（特色）村、农民转移集聚、农村土地综合整治为抓手，完善政策体系，搭建融资平台，快推项目建设，城乡统筹工作呈现全面启动、全线拉动态势，现正在向纵深不断推进。",
+        "url":"https://ori.hangzhou.com.cn/zznews/content/2012-09/25/content_4400408_0.htm"
+      },
+      {
+        "school":"改革开放四十年 坚持走生态经济之路",
+        "degree":"淳安县人民政府",
+        "graduated":"2018-11-21",
+        "description":"40年来，在改革开放浩荡浪潮的有力推动下，在县委、县政府的正确领导下，淳安县牢固树立“绿水青山就是金山银山”的发展理念，众志成城、砥砺奋进，让淳安县的工业经济从一穷二白、筚路蓝缕中走来，依托千岛湖资源优势，着力构筑“无污染、小空间、高科技、资源型”的新型生态工业体系，走出了一条生态经济发展之路",
+        "url":"https://www.qdh.gov.cn/art/2018/11/21/art_1420221_27495562.html"
+      },
+      {
+        "school":"乡村振兴，从“路”出发 | 淳安：后亚运时代交旅融合新纽带",
+        "degree":"杭州交通",
+        "graduated":"2024-04-16",
+        "description":"在全省深化新时代“千万工程”、全面打造乡村振兴浙江样板、实施基础设施支撑能力提升行动的大背景下，杭州农村公路建设又迎机遇。“要想富，先修路”是广大干部群众的最大愿望。历届淳安县委、县政府和交通部门肩负使命、不负重托，以最大决心、最大投入、最强举措，使全县的农村公路不断多起来、快起来、好起来、美起来。",
+        "url":"https://mp.weixin.qq.com/s?__biz=MzA4MzQxODYyMw==&mid=2649792763&idx=1&sn=152437f010b81021f8b70b52915c1669&chksm=86b3e303f9fa014e5d628f9ac7bb12413f78c1f209093478b266756831a94a604ef156ffc8d9&scene=27"
+      }
+    ],
+    "work":[
+      {
+        "company":"",
+        "title":"",
+        "years":"",
+        "description":"近年来，淳安县发生了翻天覆地的变化。从一个基础薄弱、经济相对落后的山区县，逐步成长为浙江城乡统筹发展的典范。这一切都离不开政府和人民的共同努力，也见证了“绿水青山就是金山银山”理念的生动实践。\t\t2012年，淳安县启动了“推进城乡统筹，打造统筹淳安，争当山上浙江城乡统筹示范”的宏大目标。从改善镇村面貌到推进农民转移和土地综合整治，政策的实施让全县城乡建设全线铺开、全面推进。这不仅让淳安的风景更加美丽，也使乡村经济发展焕发了新活力。\n\n2018年，改革开放四十年之际，淳安县坚定地走上了生态经济发展的道路。依托千岛湖的资源优势，发展无污染的生态工业，经济从“一穷二白”变得“有模有样”。大家都说，淳安的空气是甜的，水是清的，发展路子是对的。\n\n到了2024年，随着亚运会的余热未退，淳安县在乡村振兴上又迈出了坚实的一步。大家都知道，“要想富，先修路”。县委、县政府和交通部门用最大的决心和投入，把农村公路修得又多又好，交通条件的大改善带来了旅游和农产品销售的大提升，村民们的腰包也鼓了起来。\n\n淳安县这些年的变化，有目共睹，大家心里都有一杆秤。政策好，乡亲们干劲足，日子才越过越红火。这些变化让我们看到了希望，也坚定了我们继续前行的信心。未来，淳安县还将继续在城乡统筹、生态经济和基础设施建设上发力，争取让每一个淳安人都能过上更加幸福美好的生活。"
+      }
+    ],
+    
+    "skills":[
+      {
+        "name":"Python",
+        "level":"60%"
+      },
+      {
+        "name":"VueJs",
+        "level":"55%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"50%"
+      },
+      {
+        "name":"CSS",
+        "level":"90%"
+      },
+      {
+        "name":"PHP",
+        "level":"80%"
+      },
+      {
+        "name":"Swift",
+        "level":"50%"
+      },
+      {
+        "name":"JAVA",
+        "level":"80%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"秀水名城",
+        "category":"My Travel Blog for my post-university travels",
+        "image":"xiushui.png",
+        "url":"https://www.canadianwanderlust.com"
+      },
+      {
+        "title":"白小线",
+        "category":"(offline now) A fighting gear company I started",
+        "image":"image.png",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"下姜村",
+        "category":"Website I built for a restaurant I like in Thailand",
+        "image":"image copy.png",
+        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title":"环千岛湖公路",
+        "category":"A React based resume website template",
+        "image":"image copy 2.png",
+        "url":"http://www.timbakerdev.com"
+      }
+    ]
+  }
+}
